@@ -3,24 +3,17 @@
 ## Stack
 
 ### Frontend
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge">
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge">
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge">
 
 ### Backend
 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Obelisk-ccf?&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Yesod-ccc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge"/><img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"/><img src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white&style=for-the-badge"/><img src="https://img.shields.io/badge/Obelisk-ccf?&style=for-the-badge"/><img src="https://img.shields.io/badge/Yesod-ccc?style=for-the-badge"/>
 
 <br>
 
 #### Database
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=fff">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=fff"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=fff"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=fff"/>
 
 
 ## Todo
