@@ -1,32 +1,66 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Koo%20Bonchan&height=150&fontSize=60&desc=On%20My%20Way&descAlignY=75&descAlign=60">
+![My Name is Koo Bonchan](https://capsule-render.vercel.app/api?type=blur&height=300&color=74A60A&text=Koo%20Bonchan&desc=Working%20a%20Hunch&descAlignY=70&descAlign=60)
 
 ## Stack
 
 ### Frontend
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge">
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23000)
+![Static Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/storybook-%23FF4785?style=for-the-badge&logo=storybook&logoColor=fff)
 
 ### Backend
 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge"/><img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"/><img src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white&style=for-the-badge"/><img src="https://img.shields.io/badge/Obelisk-ccf?&style=for-the-badge"/><img src="https://img.shields.io/badge/Yesod-ccc?style=for-the-badge"/>
+![Static Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/junit-25A162?style=for-the-badge&logo=junit5&logoColor=fff)
 
-<br>
+![Static Badge](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/Yesod-29374e?style=for-the-badge&logoColor=fff)
 
-#### Database
+### Database
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=fff"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=fff"/>
+![Static Badge](https://img.shields.io/badge/oracle-ff0000?style=for-the-badge&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/dbeaver-%23382923?style=for-the-badge&logo=dbeaver&logoColor=fff)
+
+![Static Badge](https://img.shields.io/badge/jdbc-%23FC4C02?style=for-the-badge&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/mybatis-%23f33?style=for-the-badge&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/jpa-%23FC4C02?style=for-the-badge&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/r2dbc-%23242F68?style=for-the-badge&logoColor=fff)
 
 
-## Todo
+### DevOps
+
+![Static Badge](https://img.shields.io/badge/EC2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/RDS-%23527FFF?style=for-the-badge&logo=amazonrds&logoColor=fff)
+&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/GCE-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=fff)
+
+![Static Badge](https://img.shields.io/badge/github_actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=fff)
 
 
 
-| Target | Purpose |
-|:---:|:---:|
-|<img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white&style=for-the-badge"/>| |
-|<img src="https://img.shields.io/badge/Erlang-A90533?logo=erlang&logoColor=fff&style=for-the-badge">| Haskell - unreliable updates -- similar type language |
-|**Toy project:<br>Toy Language**| following the book of Matsumoto Yukihiro<br>no english as possible<br>expected: 6 month |
 
-<br>
+
+## Todolist
+| What to do | Why |
+| --- | --- |
+|![Static Badge](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white&style=for-the-badge)| **Just For Fun** |
+| | Type safety | 
+| | No undefined definition |
+| | High performance for compiled program |
+| Create DSL | **Practice for Toy Language Project** |
+| | Reduce scope |
+| | Goal : Lean but solid |
+| | Not yet decided the domain |
+
+
 
 ---
 ### Contact
