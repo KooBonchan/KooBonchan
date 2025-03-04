@@ -65,4 +65,7 @@
 ---
 ### Contact
 **email** garam9koo@gmail.com \
-**Notion Page** https://www.notion.so/63ffa382f01840af95d2dc8b7a101591
+**Notion Pages**
+[독서노트](https://regal-spark-3c4.notion.site/621cdc41b8d4418e9ee90eb892f7f5db?v=08797ab4e7864f0bb488e8cdd7061a84)
+[공부노트](https://regal-spark-3c4.notion.site/11f23d6b932c80a0aa8acfe27f2b4356?pvs=74)
+[실수노트](https://regal-spark-3c4.notion.site/10c23d6b932c806ab32ccae34fa7db13)
